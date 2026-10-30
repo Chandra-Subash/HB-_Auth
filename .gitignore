@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+dist/
+web-build/
+.env
+.env.*
+!.env.example
+
+# Never commit private service account credentials
+serviceAccountKey.json
+*-service-account*.json
